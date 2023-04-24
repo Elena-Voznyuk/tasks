@@ -1,0 +1,30 @@
+C:\Users\Елена\Desktop\дз1_введение в программирование\bin\Debug\net6.0\дз1_введение в программирование.exe
+C:\Users\Елена\Desktop\дз1_введение в программирование\bin\Debug\net6.0\дз1_введение в программирование.deps.json
+C:\Users\Елена\Desktop\дз1_введение в программирование\bin\Debug\net6.0\дз1_введение в программирование.runtimeconfig.json
+C:\Users\Елена\Desktop\дз1_введение в программирование\bin\Debug\net6.0\дз1_введение в программирование.dll
+C:\Users\Елена\Desktop\дз1_введение в программирование\bin\Debug\net6.0\дз1_введение в программирование.pdb
+C:\Users\Елена\Desktop\дз1_введение в программирование\obj\Debug\net6.0\дз1_введение в программирование.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\дз1_введение в программирование\obj\Debug\net6.0\дз1_введение в программирование.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\дз1_введение в программирование\obj\Debug\net6.0\дз1_введение в программирование.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\дз1_введение в программирование\obj\Debug\net6.0\дз1_введение в программирование.AssemblyInfo.cs
+C:\Users\Елена\Desktop\дз1_введение в программирование\obj\Debug\net6.0\дз1_введение в программирование.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\дз1_введение в программирование\obj\Debug\net6.0\дз1_введение в программирование.dll
+C:\Users\Елена\Desktop\дз1_введение в программирование\obj\Debug\net6.0\refint\дз1_введение в программирование.dll
+C:\Users\Елена\Desktop\дз1_введение в программирование\obj\Debug\net6.0\дз1_введение в программирование.pdb
+C:\Users\Елена\Desktop\дз1_введение в программирование\obj\Debug\net6.0\дз1_введение в программирование.genruntimeconfig.cache
+C:\Users\Елена\Desktop\дз1_введение в программирование\obj\Debug\net6.0\ref\дз1_введение в программирование.dll
+C:\Users\Елена\Desktop\дз1 программирование\bin\Debug\net6.0\дз1_введение в программирование.exe
+C:\Users\Елена\Desktop\дз1 программирование\bin\Debug\net6.0\дз1_введение в программирование.deps.json
+C:\Users\Елена\Desktop\дз1 программирование\bin\Debug\net6.0\дз1_введение в программирование.runtimeconfig.json
+C:\Users\Елена\Desktop\дз1 программирование\bin\Debug\net6.0\дз1_введение в программирование.dll
+C:\Users\Елена\Desktop\дз1 программирование\bin\Debug\net6.0\дз1_введение в программирование.pdb
+C:\Users\Елена\Desktop\дз1 программирование\obj\Debug\net6.0\дз1_введение в программирование.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\дз1 программирование\obj\Debug\net6.0\дз1_введение в программирование.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\дз1 программирование\obj\Debug\net6.0\дз1_введение в программирование.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\дз1 программирование\obj\Debug\net6.0\дз1_введение в программирование.AssemblyInfo.cs
+C:\Users\Елена\Desktop\дз1 программирование\obj\Debug\net6.0\дз1_введение в программирование.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\дз1 программирование\obj\Debug\net6.0\дз1_введение в программирование.dll
+C:\Users\Елена\Desktop\дз1 программирование\obj\Debug\net6.0\refint\дз1_введение в программирование.dll
+C:\Users\Елена\Desktop\дз1 программирование\obj\Debug\net6.0\дз1_введение в программирование.pdb
+C:\Users\Елена\Desktop\дз1 программирование\obj\Debug\net6.0\дз1_введение в программирование.genruntimeconfig.cache
+C:\Users\Елена\Desktop\дз1 программирование\obj\Debug\net6.0\ref\дз1_введение в программирование.dll
