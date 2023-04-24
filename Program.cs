@@ -11,7 +11,7 @@ else Console.WriteLine($"Max number is {number_b}. Min number is {number_a}");
 */
 
 
-//Задача4
+//Задача 4
 /*Console.WriteLine("Input your first number");
 int number_a = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Input your second number");
