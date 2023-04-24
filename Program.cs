@@ -1,4 +1,5 @@
-﻿/*Console.WriteLine("Input your first number");
+﻿//Задача2
+/*Console.WriteLine("Input your first number");
 int number_a = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Input your first number");
 int number_b = Convert.ToInt32(Console.ReadLine());
@@ -10,6 +11,7 @@ else Console.WriteLine($"Max number is {number_b}. Min number is {number_a}");
 */
 
 
+//Задача4
 /*Console.WriteLine("Input your first number");
 int number_a = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Input your second number");
@@ -29,7 +31,7 @@ if (number_c > max)
 Console.WriteLine($"Max number is {max}");
 */
 
-
+//Задача 6
 /*Console.WriteLine("Input your  number");
 int number = Convert.ToInt32(Console.ReadLine());
 if (number % 2 == 0)
@@ -43,7 +45,7 @@ else
 */
 
 
-
+//Задача 8
 Console.WriteLine("Input your  number");
 int N = Convert.ToInt32(Console.ReadLine());
 int current_i = 0;
