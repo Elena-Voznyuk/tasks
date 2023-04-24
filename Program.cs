@@ -29,3 +29,15 @@ if (number_c > max)
 Console.WriteLine($"Max number is {max}");
 */
 
+
+/*Console.WriteLine("Input your  number");
+int number = Convert.ToInt32(Console.ReadLine());
+if (number % 2 == 0)
+{
+    Console.WriteLine("Your number is even number");
+}
+else 
+{
+    Console.WriteLine("Your number is not even number");
+}
+*/
