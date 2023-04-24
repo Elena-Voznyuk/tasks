@@ -41,3 +41,17 @@ else
     Console.WriteLine("Your number is not even number");
 }
 */
+
+
+
+Console.WriteLine("Input your  number");
+int N = Convert.ToInt32(Console.ReadLine());
+int current_i = 0;
+while (current_i <= N)
+{
+if (current_i % 2 == 0)
+{
+    Console.WriteLine(current_i + " ");
+    current_i = current_i + 2;
+}    
+}
